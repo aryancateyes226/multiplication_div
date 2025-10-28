@@ -1,0 +1,6 @@
+a=float(input("Enter first number:"))
+b=float(input("Enter second number:"))
+print("\n--Multiplication--")
+print("The multiple of two numbers is:",a*b)
+print("--Division--")
+print("The division of two numbers is:",a/b)
